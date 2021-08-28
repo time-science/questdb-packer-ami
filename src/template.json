@@ -1,7 +1,7 @@
 {
   "_comment": "Packer Template for QuestDB. Based on Amazon Linux 2",
   "variables": {
-    "aws_region": "us-east-1",
+    "aws_region": "us-east-2",
     "base_ami_name": "questdb"
   },
   "builders": [
